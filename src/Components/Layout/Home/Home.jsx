@@ -12,7 +12,7 @@ const Home = () => {
                     <Avatar />
                     <Stack width="100%" sx={{ backgroundColor: "white" }}>
 
-                    </Stack>
+                    </Stack> 
                 </Stack>
                 <Divider variant="middle" />
                 <Stack direction={"row"} spacing={spacing}>
